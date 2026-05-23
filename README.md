@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorugo28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorugo28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorugo28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorugo28&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -44,7 +44,7 @@
 ## 🚀 Projetos em destaque
 
 
-[![VapClean]]([https://github.com/Thorugo28/NOME-DO-REPO-1](https://github.com/Thorugo28/VapClean.git))
+[![VapClean](https://github-readme-stats.vercel.app/api/pin/?username=Thorugo28&repo=VapClean&theme=tokyonight&hide_border=true)](https://github.com/Thorugo28/VapClean)
 
 ---
 
