@@ -4,7 +4,7 @@
 
 **Desenvolvedor Web · Front-end & Back-end**
 
-`const dev = { passion: "web", coffee: true }`
+`const dev = { passion: "web", monster: true }`
 
 </div>
 
